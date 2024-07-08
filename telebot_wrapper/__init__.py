@@ -1,4 +1,5 @@
 from . import utils
+from .bot import Bot
 
 
-__all__ = ["utils"]
+__all__ = ["utils", "Bot"]

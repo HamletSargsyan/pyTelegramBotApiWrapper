@@ -4,3 +4,6 @@
 __pycache__/
 
 telebot_wrapper/test.py
+
+dist/
+poetry.lock

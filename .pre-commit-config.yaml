@@ -1,0 +1,15 @@
+repos:
+  - repo: local
+    hooks:   
+    - id: check
+      name: check
+      entry: ruff check telebot_wrapper
+      language: system
+      types: [python]
+      pass_filenames: false
+    - id: format
+      name: format
+      entry: ruff format telebot_wrapper
+      language: system
+      types: [python]
+      pass_filenames: false

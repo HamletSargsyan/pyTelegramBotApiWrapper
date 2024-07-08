@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "telebot_wrapper"
+version = "0.1.0"
+description = "pyTelegramBotApi wrapper"
+authors = ["Hamlet <hamlets849@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Environment :: Console",
+    "License :: OSI Approved :: MIT",
+]
+homepage = "https://github.com/HamletSargsyan/pyTelegramBotApiWrapper"
+repository = "https://github.com/HamletSargsyan/pyTelegramBotApiWrapper"
+keywords = ["telegram", "bot", "api", "tools"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pyTelegramBotApi = "^4.20.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
