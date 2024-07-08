@@ -2,7 +2,7 @@
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/telebot_wrapper)
 ![GitHub Release](https://img.shields.io/github/v/release/HamletSargsyan/pyTelegramBotAPIWrapper)
-![PyPI - Version](https://img.shields.io/pypi/v/pyTelegramBotApiWrapper)
+![PyPI - Version](https://img.shields.io/pypi/v/telebot_wrapper)
 ![GitHub License](https://img.shields.io/github/license/HamletSargsyan/pyTelegramBotApiWrapper)
 
 
@@ -19,6 +19,7 @@ pip install --upgrade telebot_wrapper
 from telebot.types import CallbackQuery,  Message
 from telebot.util import quick_markup
 
+from telebot_wrapper import Bot
 from telebot_wrapper.utils import compress_string, decompress_string
 
 TOKEN = ""
