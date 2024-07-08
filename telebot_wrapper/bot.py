@@ -3,7 +3,7 @@ from typing import Callable
 from telebot import TeleBot
 from telebot.types import CallbackQuery
 
-from utils import decompress_string
+from .utils import decompress_string
 
 
 __all__ = ["Bot"]
