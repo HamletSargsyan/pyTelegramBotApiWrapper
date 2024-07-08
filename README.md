@@ -9,7 +9,7 @@
 ## Install
 
 ```bash
-pip install --upgrade pyTelegramBotApiWrapper
+pip install --upgrade telebot_wrapper
 ```
 
 ## Examples
