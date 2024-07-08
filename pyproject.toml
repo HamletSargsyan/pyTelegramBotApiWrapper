@@ -14,7 +14,7 @@ classifiers = [
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
     "Environment :: Console",
-    "License :: OSI Approved :: MIT",
+    "License :: OSI Approved :: MIT License",
 ]
 homepage = "https://github.com/HamletSargsyan/pyTelegramBotApiWrapper"
 repository = "https://github.com/HamletSargsyan/pyTelegramBotApiWrapper"
