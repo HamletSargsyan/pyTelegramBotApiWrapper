@@ -1,5 +1,10 @@
 # pyTelegramBotWrapper
 
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/telebot_wrapper)
+![GitHub Release](https://img.shields.io/github/v/release/HamletSargsyan/pyTelegramBotAPIWrapper)
+![PyPI - Version](https://img.shields.io/pypi/v/pyTelegramBotApiWrapper)
+![GitHub License](https://img.shields.io/github/license/HamletSargsyan/pyTelegramBotApiWrapper)
+
 
 ## Install
 
@@ -43,7 +48,3 @@ def message_handler(message: Message):
 if __name__ == "__main__":
     bot.infinity_polling()
 ```
-
-## License
-
-(MIT)[]
