@@ -5,6 +5,8 @@
 ![PyPI - Version](https://img.shields.io/pypi/v/telebot_wrapper)
 ![GitHub License](https://img.shields.io/github/license/HamletSargsyan/pyTelegramBotApiWrapper)
 
+> [!WARNING]
+> not maintained
 
 ## Install
 
